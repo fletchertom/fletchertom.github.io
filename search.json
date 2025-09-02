@@ -7,18 +7,11 @@
     "text": "Welcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "log/quarto/first.html",
-    "href": "log/quarto/first.html",
-    "title": "Welcome To My Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "How to setup a blog with quarto and gh pages"
-  },
-  {
-    "objectID": "til.html",
-    "href": "til.html",
-    "title": "Log",
-    "section": "",
-    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
+    "text": "About this blog"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,10 +21,17 @@
     "text": "Welcome!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "journal.html",
+    "href": "journal.html",
+    "title": "Journal",
     "section": "",
-    "text": "About this blog"
+    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "journal/quarto/first.html",
+    "href": "journal/quarto/first.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "How to setup a blog with quarto and gh pages"
   }
 ]

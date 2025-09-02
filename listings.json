@@ -6,9 +6,9 @@
     ]
   },
   {
-    "listing": "/til.html",
+    "listing": "/journal.html",
     "items": [
-      "/log/quarto/first.html"
+      "/journal/quarto/first.html"
     ]
   }
 ]
