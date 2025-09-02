@@ -6,6 +6,7 @@ website:
   navbar:
     right:
       - about.qmd
+      - journal.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
@@ -13,7 +14,7 @@ website:
 format:
   html:
     theme:
-      - darkly
+      - flatly
     css: styles.css
 
 
