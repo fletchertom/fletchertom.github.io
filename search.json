@@ -25,13 +25,13 @@
     "href": "journal.html",
     "title": "Journal",
     "section": "",
-    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
+    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the journal section\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "journal/quarto/first.html",
-    "href": "journal/quarto/first.html",
-    "title": "Welcome To My Blog",
+    "objectID": "journal/first.html",
+    "href": "journal/first.html",
+    "title": "Welcome to the journal section",
     "section": "",
-    "text": "How to setup a blog with quarto and gh pages"
+    "text": "First journal"
   }
 ]
