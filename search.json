@@ -14,6 +14,20 @@
     "text": "Welcome!"
   },
   {
+    "objectID": "til.html",
+    "href": "til.html",
+    "title": "Today I Learned (TIL)",
+    "section": "",
+    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "til/quarto/first.html",
+    "href": "til/quarto/first.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "How to setup a blog with quarto and gh pages"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
