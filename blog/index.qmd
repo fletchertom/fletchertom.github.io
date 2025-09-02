@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "Tom Fletcher"
 listing:
   contents: posts
   sort: "date desc"
