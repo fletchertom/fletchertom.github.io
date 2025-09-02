@@ -7,25 +7,25 @@
     "text": "Welcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "log/quarto/first.html",
+    "href": "log/quarto/first.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "How to setup a blog with quarto and gh pages"
+  },
+  {
+    "objectID": "til.html",
+    "href": "til.html",
+    "title": "Log",
+    "section": "",
+    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Welcome!"
-  },
-  {
-    "objectID": "til.html",
-    "href": "til.html",
-    "title": "Today I Learned (TIL)",
-    "section": "",
-    "text": "A collection of things I’ve learned along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 9, 2025\n\n\nTom Fletcher\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "til/quarto/first.html",
-    "href": "til/quarto/first.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "How to setup a blog with quarto and gh pages"
   },
   {
     "objectID": "about.html",
